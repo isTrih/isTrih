@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=istrih&show_icons=true" alt="logo" align="right" style="margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=istrih&show_icons=true" alt="logo" align="left" style="margin-bottom: 20px;" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
