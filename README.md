@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istrih&hide=html,makefile,css,scss,dockerfile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<br>
 ### Welcome to my Github!
 
 I'm a common student from China, 2022 is my first year in my college.
@@ -12,4 +13,3 @@ And I'm not a professional programmer, coding is my hobby.
 - Welcome to follew me ,and I'll give you a refollew.
 
 <br><img src="https://github-profile-trophy.vercel.app/?username=istrih&theme=flat&column=5" alt="logo" align="center" style="margin: auto;"/>
-<br>
