@@ -15,5 +15,4 @@ And I'm not a professional programmer, coding is my hobby.
 
 - I'm Trying study C# JAVA PYTHON SWIFT（this list will be add more contents in future.
 - Welcome to follew me ,and I'll give you a refollew.
-- Also As THE CTO OF Supra Rectus Tech, I hope we can use TECH to improve all our lives.
 <br><img src="https://github-profile-trophy.vercel.app/?username=istrih&theme=flat&column=5" alt="logo" align="center" style="margin: auto;"/>
